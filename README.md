@@ -386,6 +386,8 @@ This makes it a practical demonstration of software engineering and problem-solv
 # Author
 
 **Vishal Kumar**
+**Shivanshu Yadav**
+**Uday Singh Prajapati**
 
 B.Tech Computer Science (AI & ML)
 
